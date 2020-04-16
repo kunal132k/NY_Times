@@ -145,7 +145,7 @@ li {
 </style>
 <div class="container">
 <div class=" search container">
-    <form  action="/NewYorkTimes/result.php" method="GET">
+    <form  action="result.php" method="GET">
         <span class="fa fa-search abc"></span>
         <input type="text" name="term" class="xyz" placeholder="Search">
         <button class="btn btn-primary" id="search">Search</button>
@@ -191,15 +191,15 @@ ARTICLES
     <li class="page-item active p1">
       <a class="page-link">1 <span class="sr-only">(current)</span></a>
     </li>
-    <li class="page-item p2"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=1">2</a></li>
-    <li class="page-item p3"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=2">3</a></li>
-    <li class="page-item p4"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=3">4</a></li>
-    <li class="page-item p5"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=4">5</a></li>
-    <li class="page-item p6"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=5">6</a></li>
-    <li class="page-item p7"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=6">7</a></li>
-    <li class="page-item p8"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=7">8</a></li>
-    <li class="page-item p9"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=8">9</a></li>
-    <li class="page-item p10"><a class="page-link" href="http://localhost/NewYorkTimes/result.php?term=india&p=9">10</a></li>
+    <li class="page-item p2"><a class="page-link" href="result.php?term=india&p=1">2</a></li>
+    <li class="page-item p3"><a class="page-link" href="result.php?term=india&p=2">3</a></li>
+    <li class="page-item p4"><a class="page-link" href="result.php?term=india&p=3">4</a></li>
+    <li class="page-item p5"><a class="page-link" href="result.php?term=india&p=4">5</a></li>
+    <li class="page-item p6"><a class="page-link" href="result.php?term=india&p=5">6</a></li>
+    <li class="page-item p7"><a class="page-link" href="result.php?term=india&p=6">7</a></li>
+    <li class="page-item p8"><a class="page-link" href="result.php?term=india&p=7">8</a></li>
+    <li class="page-item p9"><a class="page-link" href="result.php?term=india&p=8">9</a></li>
+    <li class="page-item p10"><a class="page-link" href="result.php?term=india&p=9">10</a></li>
   </ul>
 </nav>
 </div>

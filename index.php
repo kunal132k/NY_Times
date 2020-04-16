@@ -63,7 +63,7 @@ input {
 }
 </style>
 <div class=" search container">
-    <form action="/NewYorkTimes/result.php" method="GET">
+    <form action="result.php" method="GET">
         <span class="fa fa-search abc"></span>
         <input type="text" name="term" class="xyz" placeholder="Search">
         <button class="btn btn-primary" id="search">Search</button>
