@@ -14,7 +14,7 @@
   <!-- Custom fonts for this template-->
   
   <!-- Custom styles for this template-->
-  <link href="css/sb-admin-2.min.css" rel="stylesheet">
+  <link href="includes/sb-admin-2.min.css" rel="stylesheet">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
   <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
   <script type="text/javascript" src="js/jquery.min.js"></script>
